@@ -41,3 +41,4 @@ set(CMAKE_INSTALL_PREFIX ${CMAKE_SOURCE_DIR}/${TARGET_ARCH})
 # Subprojects
 #######################################################
 add_subdirectory(lib-oxica)
+add_subdirectory(lib-finance)
