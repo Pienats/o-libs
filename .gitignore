@@ -1,0 +1,7 @@
+# Build directories
+build/
+
+# IDE workspace/project files
+*.project
+*.kdev4
+*.workspace
